@@ -1,0 +1,16 @@
+{
+    "items": [
+        {
+            "name": "Bass Guitar",
+            "isPacked": true
+        },
+        {
+            "name": "Driving License",
+            "isPacked": true
+        },
+        {
+            "name": "Photo of the family",
+            "isPacked": false
+        }
+    ]
+}
